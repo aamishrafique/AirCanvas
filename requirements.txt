@@ -1,2 +1,9 @@
-selenium
 cairosvg
+mediapipe
+numpy
+opencv-python
+Pillow
+pytesseract
+selenium
+torch
+transformers
